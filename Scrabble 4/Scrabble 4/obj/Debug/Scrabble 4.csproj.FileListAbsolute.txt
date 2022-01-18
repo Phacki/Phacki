@@ -1,0 +1,10 @@
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\bin\Debug\Scrabble 4.exe.config
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\bin\Debug\Scrabble 4.exe
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\bin\Debug\Scrabble 4.pdb
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\obj\Debug\Scrabble 4.csprojAssemblyReference.cache
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\obj\Debug\Scrabble_4.Form1.resources
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\obj\Debug\Scrabble_4.Properties.Resources.resources
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\obj\Debug\Scrabble 4.csproj.GenerateResource.cache
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\obj\Debug\Scrabble 4.csproj.CoreCompileInputs.cache
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\obj\Debug\Scrabble 4.exe
+R:\A-level Comp Science\scrabble\Scrabble 4\Scrabble 4\obj\Debug\Scrabble 4.pdb
